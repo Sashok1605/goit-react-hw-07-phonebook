@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "name": "Brian Walker",
+      "number": "1-941-464-4996",
+      "id": "2"
+    },
+    {
+      "name": "юра мельник",
+      "number": "655767687878",
+      "id": "uh50jkB"
+    },
+    {
+      "name": "юра мельник",
+      "number": "65576768",
+      "id": "_smKmnG"
+    },
+    {
+      "name": "Саша",
+      "number": "227-91-26",
+      "id": "hiAWvw3"
+    },
+    {
+      "name": "Саша",
+      "number": "655767687",
+      "id": "f78DJ7B"
+    },
+    {
+      "name": "юра",
+      "number": "25856489",
+      "id": "bsAxccT"
+    },
+    {
+      "name": "Саш",
+      "number": "655767687878",
+      "id": "vReif1y"
+    }
+  ]
+}
