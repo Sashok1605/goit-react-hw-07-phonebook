@@ -43,10 +43,11 @@ const ContactForm = () => {
 
     if (findByName(name) && findByNumber(number)) {
       alert(`${name} is already in contacts!`);
-      return;
+    }
+    else {
+      distatch(addContact({ name, number }));
     }
     reset();
-    distatch(addContact({ name, number }));
   };
 
   return (
